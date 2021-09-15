@@ -48,7 +48,7 @@ The docu will only use Themer plugins brand new Theme Editor.
 | background_secondary | alot of secondary colors |
 | mention_highlight | changes the background color when you get mentioned |
 | active_channel | currently this does not seem to theme anything |
-| status bar | changes the color of the status bar on your device |
+| status_bar | changes the color of the status bar on your device |
 | input_background | color of user notes background, search boxes, magnify icon, channel name and topic, and role name when creating a new role. | 
 > Note: input_background seems to have problems on some devices, I am up to date and using Android 11 but input_background themes nothing.
 
