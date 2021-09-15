@@ -18,10 +18,26 @@ The docu will only use Themer plugins brand new Theme Editor.
 > Note: License and Updater are completely optional
 
 <h1 align="center">Background</h1>
+
 |Name|Description|
 | ---------------- |:-----------------------:|
 | URL | The background image link |
+| Overlay_Alpha | The background image transparency (0 = Fully Transparent, 255 = Fully Opaque)
+| Blur_Radius | The background image blur (0 = No Blur, 25 = Full Blur) 
 
+<h1 align="center">Fonts</h1>
+
+|Font|Description|
+| ---------------- |:-----------------------:|
+| * | changes all fonts in the app |
+| ginto_bold | changes categories, channel names, and headers in user settings |
+| ginto_medium | changes user settings category names, and the channel name in the member list |
+| ginto_regular | changes nothing for me, you can test it if you want |
+| roboto_medium_numbers | changes nothing for me, you can test it if you want |
+| sourcecodepro_semibold | changes nothing for me, you can test it if you want |
+| whitney_bold | changes server template names, and "Invite should look like this" |
+| whitney_medium | changes message text, channel names, button names, etc |
+| whitney_semibold | changes selected channel name, DM List names, etc |
 
 <h1 align="center">Simple Colors</h1>
 
