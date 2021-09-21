@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "Soulz",
+        "version": "1.0.0",
+        "name": "Oldcord"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -9270822,
+        "background": -13223618,
+        "background_secondary": -13223618
+    },
+    "colors": {
+        "primary_dark_660": 0,
+        "primary_dark_630": -14144720,
+        "primary_dark_800": -14802652,
+        "primary_dark_700": -14802652,
+        "primary_700": -13223618,
+        "primary_dark_360": -6579041,
+        "primary_dark_300": -1644826
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -14407892,
+        "ic_channel_text": 0
+    }
+}

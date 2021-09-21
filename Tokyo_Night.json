@@ -1,0 +1,51 @@
+{
+    "manifest": {
+        "author": "Soulz aka coolest guy ever",
+        "name": "Tokyo Night",
+        "version": "1.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": 1920367002,
+        "accent": -14471254
+    },
+    "colors": {
+        "brand_new": -11839266,
+        "brand_new_230": -11839266,
+        "brand_new_260": -11839266,
+        "brand_new_300": -11839266,
+        "brand_new_330": -11839266,
+        "brand_new_360": -11839266,
+        "brand_new_400": -11839266,
+        "brand_new_430": -11839266,
+        "brand_new_460": -11839266,
+        "brand_new_500": -11839266,
+        "brand_new_560": -11839266,
+        "brand_new_600": -11839266,
+        "brand_new_630": -11839266,
+        "link": -14853716,
+        "primary_630": -15329762,
+        "primary_700": -15329762,
+        "primary_800": -15329762,
+        "primary_dark_400": -2490290,
+        "primary_dark_600": -15066330,
+        "primary_dark_630": -15329762,
+        "primary_dark_660": -15329762,
+        "primary_dark_700": -15395554,
+        "primary_dark_800": -15329762,
+        "uikit_btn_bg_color_selector_background_accent_dark": -15329762,
+        "uikit_btn_bg_color_selector_background_accent_light": -15329762,
+        "uikit_btn_bg_color_selector_brand": -11839266,
+        "uikit_btn_bg_color_selector_green": -11839266,
+        "uikit_btn_bg_color_selector_red": -11839266,
+        "uikit_btn_bg_color_selector_secondary_dark": -15329762,
+        "uikit_btn_bg_color_selector_secondary_light": -15329762
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -14471254,
+        "drawable_overlay_channels_active_dark": -4605237,
+        "drawable_overlay_channels_selected_dark": -14934745,
+        "drawable_overlay_channels_selected_light": -8092540
+    }
+}

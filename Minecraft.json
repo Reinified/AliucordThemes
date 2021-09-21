@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "Soulz",
+        "name": "Minecraft",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/881889783478120520\/885691709709750322\/Screenshot_20210909-210231.png",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/885687665167564802\/885687912837054464\/minecraft_font.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": -12306899,
+        "background": -12306899,
+        "accent": -10778543,
+        "mention_highlight": -1755609007
+    },
+    "colors": {
+        "primary_dark_360": -10778543,
+        "uikit_btn_bg_color_selector_green": -10778543,
+        "primary_dark_400": -1051666,
+        "primary_dark_300": -1051666
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -1956935599,
+        "ic_sidebar_notifications_off_dark_24dp": -7980229,
+        "ic_sidebar_notifications_on_dark_24dp": -1051666,
+        "ic_sidebar_pins_off_dark_24dp": -1051666
+    }
+}

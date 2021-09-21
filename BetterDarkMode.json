@@ -1,0 +1,17 @@
+{
+    "name": "Its dark in here..",
+    "author": "Soulz#0387 aka The best",
+    "version": "1.0.0",
+    "license": " ",
+    "background_url": "https:\/\/cdn.discordapp.com\/attachments\/881889783478120520\/883474417680777256\/w25u14c69es2h1f3zv8vZSREZ.png",
+    "background_transparency": "75",
+    "drawablecolor_drawable_button_grey": -14145496,
+    "color_uikit_btn_bg_color_selector_green": -14918625,
+    "color_uikit_btn_bg_color_selector_red": -5498599,
+    "color_uikit_btn_bg_color_selector_secondary_dark": -6543440,
+    "drawablecolor_drawable_overlay_channels_selected_dark": -14145496,
+    "mention_highlight": 465003535,
+    "simple_accent_color": -13680737,
+    "simple_bg_color": -15724528,
+    "simple_bg_secondary_color": -15724528
+}

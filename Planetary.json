@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Soulz#0387",
+        "version": "1.2",
+        "name": "Planetary"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/881889783478120520\/887018995713212416\/dark-minimalist-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-backg.jpg",
+        "overlay_alpha": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": -15264731,
+        "background": -15264731,
+        "accent": -3641431
+    },
+    "colors": {
+        "primary_dark_300": -3641431
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -10400132,
+        "ic_menu_24dp": -3641431,
+        "ic_channel_text": -1644826
+    }
+}

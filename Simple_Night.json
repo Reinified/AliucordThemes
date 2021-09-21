@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "Soulz",
+        "name": "Simple Night",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/881889783478120520\/885594355170172998\/simple-night_a2htbGyUmZqaraWkpJRmZmxrrWdpZWU.jpg",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/881344281024016405\/884755124373827624\/Quicksand_Regular_400.ttf"
+    },
+    "simple_colors": {
+        "background": -15200227,
+        "background_secondary": -15200227,
+        "accent": -801414,
+        "mention_highlight": 1847862059
+    },
+    "colors": {
+        "primary_dark_200": -592641
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -1893457109
+    }
+}
