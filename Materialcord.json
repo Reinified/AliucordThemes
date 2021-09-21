@@ -2,6 +2,8 @@
 "name": "MaterialCord Mobile",
     "author": "Soulz",
     "version": "1.0.0",
+    "updater": "https://raw.githubusercontent.com/Reinified/AliucordThemes/main/Materialcord.json",
+    "font": "https://cdn.discordapp.com/attachments/885687665167564802/889949722834518077/OpenSans-Light.ttf",
   "drawablecolor_drawable_overlay_channels_selected_dark": -14671323,
   "color_primary_dark_700": -14671323,
   "color_primary_dark_600": -14671323,
