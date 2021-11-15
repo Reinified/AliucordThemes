@@ -50,7 +50,4 @@
 > Note: input_background seems to have problems on some devices, It's a hit or miss.
 
 <h1 align="center">Colors</h1>
-
-|Color|Description|
-| ---------------- |:-----------------------:|
-|
+USE THEMERDOCU, THIS WILL NOT BE UPDATED ANYMORE.
